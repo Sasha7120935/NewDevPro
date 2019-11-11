@@ -1,0 +1,10 @@
+{
+    "name": "new/dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "scr\\": "scr/"
+
+        }
+    }
+}
